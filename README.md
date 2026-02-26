@@ -65,15 +65,7 @@ cd tft-finance
 
 ### 2. Instalar as dependências
 
-<details> <summary>Opção 1: Se escolher rodar em IDE</summary>
-   
-```bash
-pip install pytorch-forecasting lightning yfinance pandas numpy matplotlib
-```  
-
-</details>
-
-<details><summary>Opção 2: Se escolher rodar em um Terminal</summary>
+<details><summary>Opção 1: Se escolher rodar via Terminal</summary>
    
 ```bash
 python -m venv venv
@@ -82,6 +74,14 @@ pip install pytorch-forecasting lightning yfinance pandas numpy matplotlib
 ```
 
 OBS: Instalação teste feita em distro Linux.
+
+</details>
+
+<details> <summary>Opção 2: Se escolher rodar via IDE</summary>
+   
+```bash
+pip install pytorch-forecasting lightning yfinance pandas numpy matplotlib
+```  
 
 </details>
 
@@ -434,6 +434,7 @@ pip install pytorch-forecasting lightning yfinance pandas numpy matplotlib
 <br><br>
 
 *Projeto desenvolvido para fins acadêmicos.*
+
 
 
 
