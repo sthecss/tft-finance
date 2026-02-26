@@ -60,7 +60,7 @@ projeto/
 
 ```bash
 git clone https://github.com/sthecss/tft-finance.git
-cd tft-bolsa
+cd tft-finance
 ```
 
 ### 2. Instalar as dependências
@@ -76,7 +76,7 @@ pip install pytorch-forecasting lightning yfinance pandas numpy matplotlib
 <details><summary>Opção 2: Se escolher rodar em um Terminal</summary>
    
 ```bash
-cd tft-bolsa
+cd tft-finance
 python -m venv venv
 source venv/bin/activate
 pip install pytorch-forecasting lightning yfinance pandas numpy matplotlib
@@ -436,6 +436,7 @@ pip install pytorch-forecasting lightning yfinance pandas numpy matplotlib
 <br><br>
 
 *Projeto desenvolvido para fins acadêmicos.*
+
 
 
 
