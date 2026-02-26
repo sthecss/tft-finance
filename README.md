@@ -79,7 +79,6 @@ pip install pytorch-forecasting lightning yfinance pandas numpy matplotlib
 python -m venv venv
 source venv/bin/activate
 pip install pytorch-forecasting lightning yfinance pandas numpy matplotlib
-python main_experimentos.py
 ```
 
 OBS: Instalação teste feita em distro Linux.
@@ -435,6 +434,7 @@ pip install pytorch-forecasting lightning yfinance pandas numpy matplotlib
 <br><br>
 
 *Projeto desenvolvido para fins acadêmicos.*
+
 
 
 
