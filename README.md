@@ -63,6 +63,8 @@ git clone https://github.com/sthecss/tft-finance.git
 cd tft-finance
 ```
 
+<br>
+
 ### 2. Instalar as dependências
 
 <details><summary>Opção 1: Se escolher rodar via Terminal</summary>
@@ -84,6 +86,8 @@ pip install pytorch-forecasting lightning yfinance pandas numpy matplotlib
 ```  
 
 </details>
+
+<br>
 
 ### 3. Executar o pipeline
 
@@ -434,6 +438,7 @@ pip install pytorch-forecasting lightning yfinance pandas numpy matplotlib
 <br><br>
 
 *Projeto desenvolvido para fins acadêmicos.*
+
 
 
 
