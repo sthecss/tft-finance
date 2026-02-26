@@ -3,6 +3,10 @@
 
 Projeto acadêmico para previsão de retornos de ações brasileiras utilizando o modelo **Temporal Fusion Transformer (TFT)**, com foco em comparação experimental de arquiteturas e análise de acerto de direção (subiu/desceu).
 
+<br>
+
+Desenvolvido por: [Arthur](https://github.com/ArthurAssuncao0) | [Sara](https://github.com/Sarinha09) | [Sthephanny](https://github.com/sthecss) | [Victor](https://github.com/VictorBertolini)
+
 ---
 <br><br>
 
@@ -129,8 +133,14 @@ Acompanhe o progresso diretamente no console. O download dos dados, o treino de 
 
 </details>
 
-> **Primeira execução:** o programa baixa e processa todos os dados automaticamente. Nas execuções seguintes, o arquivo `dataset_tft.csv` já existe e o download é pulado.
-> Para forçar novo download (ex: atualizar o período), basta deletar o `dataset_tft.csv`.
+<br>
+
+> [!TIP]
+> **Primeira execução:** o programa baixa e processa todos os dados automaticamente.  
+>
+> Nas execuções seguintes, o arquivo `dataset_tft.csv` já existe e o download é pulado.
+>
+> **Atulizar período:** Para forçar novo download (ex: atualizar o período), basta deletar o `dataset_tft.csv`.  
 
 ---
 <br><br>
@@ -438,6 +448,7 @@ pip install pytorch-forecasting lightning yfinance pandas numpy matplotlib
 <br><br>
 
 *Projeto desenvolvido para fins acadêmicos.*
+
 
 
 
